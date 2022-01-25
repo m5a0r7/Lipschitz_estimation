@@ -1,3 +1,3 @@
 import numpy as np
 
-print('Hi!')
+### an algorithm for estimating Lipschitz constant
